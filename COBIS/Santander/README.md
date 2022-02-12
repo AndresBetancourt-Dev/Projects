@@ -4,7 +4,7 @@
 
 <br>
 
-<img align="left" alt="HTML" title="HTML" width="60px" src="https://raw.githubusercontent.com/AndresBetancourt-Dev/AndresBetancourt-Dev/master/images/technologies/html.webp" />
+<img align="left" style="margin-top: 1em;" alt="HTML" title="HTML" width="60px" src="https://raw.githubusercontent.com/AndresBetancourt-Dev/AndresBetancourt-Dev/master/images/technologies/html.webp" />
 <img align="left"  style="margin-left : 1em;" alt="CSS" title="CSS" width="60px" src="https://raw.githubusercontent.com/AndresBetancourt-Dev/AndresBetancourt-Dev/master/images/technologies/css.webp" />
 <img align="left"  style="margin-left : 1em;" alt="Javascript" title="Javascript" width="60px" src="https://raw.githubusercontent.com/AndresBetancourt-Dev/AndresBetancourt-Dev/master/images/technologies/js.png" />  
 <img align="left" style="margin-left : 1em;" alt="Java" title="Java" width="60px" src="https://raw.githubusercontent.com/AndresBetancourt-Dev/AndresBetancourt-Dev/master/images/technologies/java.svg" />
